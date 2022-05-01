@@ -1,0 +1,3 @@
+the original message: I'm killing your brain like a poisonous mushroom
+in base64 the hex string will be:
+SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t
