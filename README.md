@@ -1,7 +1,7 @@
 # cryptopals-crypto-challenges-set-1
 set 1 of encryption and decryption challenges from cryptopals.com
 
-#Challenge 1: Convert hex to base64
+# Challenge 1: Convert hex to base64
 
 The string:
 
